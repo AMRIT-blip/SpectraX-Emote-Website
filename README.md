@@ -44,7 +44,7 @@ You can host this website for **FREE** in under 2 minutes using **Vercel** or **
 
 ## 📜 Credits
 
--   **Developer**: [Code Specter](https://www.codespecters.com/)
+-   **Developer**: [1nOnlyAmrit](https://www.codespecters.com/)
 -   **Design**: Premium Glassmorphism UI
 
 ---
