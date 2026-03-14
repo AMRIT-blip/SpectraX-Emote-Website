@@ -463,7 +463,7 @@ function showToast(msg, type = 'success') {
 /* Tutorial Logic */
 function openTutorial() {
     // User requested direct redirection
-    const tutorialUrl = "https://youtu.be/k1FlgV_9Q3U?si=Kq7rFhlveYVvb_kE";
+    const tutorialUrl = "";
     window.open(tutorialUrl, '_blank');
 }
 
