@@ -1,6 +1,6 @@
 # Free Fire Emote Master 🔥
 
-> **Premium Bot Controller by [Code Specter](https://www.codespecters.com/)**
+> **Premium Bot Controller by [Code Specter](https://discord.gg/2xFJKpyg5c)**
 
 A professional, high-performance web tool to interact with Free Fire bots. Perform emotes, invite bots, and manage teams with a sleek, Futuristic Glassmorphism UI.
 
